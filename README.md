@@ -62,3 +62,9 @@ meilleure solution
 ## Customer service et serviceImp
 ![service](images/seviceImp.PNG)
 ![service](images/seviceImp2.PNG)
+
+## Controller
+![controller](images/controller.png)
+
+ ## Application Properties
+ ![properties](images/config.png)
