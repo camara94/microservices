@@ -43,3 +43,5 @@ Le principe de l'architecture microservice est de découper un grand problème e
 ![stateless](images/stateless.png)
 ## Comment Faire Avec Mes Données
 ![data](images/data.png)
+meilleure solution
+![solution](images/data2.png)
