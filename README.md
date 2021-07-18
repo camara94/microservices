@@ -25,3 +25,6 @@ Le principe de l'architecture microservice est de découper un grand problème e
 * Facile à appliquer l'agilité
 * Facile à main en oeuvre TDD
 * Equipes indépendantes
+
+## Modèles De Gayway
+![modelegayway](images/modelegayway.png)
