@@ -28,3 +28,6 @@ Le principe de l'architecture microservice est de découper un grand problème e
 
 ## Modèles De Gayway
 ![modelegayway](images/modelegayway.png)
+
+## Modèle De Communication Entre Microservices
+![modelsync](images/modelsync.png)
