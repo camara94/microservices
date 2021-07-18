@@ -56,3 +56,5 @@ meilleure solution
 ![dependances](images/dependance.png)
 ## Customer Service
 ![service](images/service.png)
+### MapStruct Plugin
+![config](images/configservice2.png)
