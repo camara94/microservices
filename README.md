@@ -45,3 +45,6 @@ Le principe de l'architecture microservice est de découper un grand problème e
 ![data](images/data.png)
 meilleure solution
 ![solution](images/data2.png)
+
+## Exemples Conception Microservices
+![exemples](images/exemples.png)
