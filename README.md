@@ -6,4 +6,5 @@ Le principe de l'architecture microservice est de découper un grand problème e
 * faire Communiquer Les Applications Entre elles
   ![def1](images/defi1.png)
 * mettre en place un gate way qui permet aux applications clients de ne pas connaître les Adresses des applications qui constituent application microservice. Son rôle est l'acheminement des requests des clients vers nos différentes applications.
-  
+![getway](images/getway.png)
+ 
