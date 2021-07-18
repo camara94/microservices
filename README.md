@@ -34,3 +34,7 @@ Le principe de l'architecture microservice est de découper un grand problème e
 ![modelsync](images/modelsync.png)
 ### Modèle Asynchrone
 ![modelsync](images/async.png)
+## Security Challenge
+
+### Stateful
+![statefull](images/stafull.png)
