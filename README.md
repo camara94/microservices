@@ -48,3 +48,6 @@ meilleure solution
 
 ## Exemples Conception Microservices
 ![exemples](images/exemples.png)
+
+## Customer Service
+![customer](images/customerservice.png)
