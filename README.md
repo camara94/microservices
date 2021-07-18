@@ -51,3 +51,6 @@ meilleure solution
 
 ## Customer Service
 ![customer](images/customerservice.png)
+
+## Dependances
+![dependances](images/dependance.png)
