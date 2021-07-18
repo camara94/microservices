@@ -12,3 +12,5 @@ Le principe de l'architecture microservice est de découper un grand problème e
    2. son adresse IP
    3. son numéro de port
    ![discovery](images/discovery.png)
+* Config Service ce service permet de centraliser la configuration de tous les microservices, la première des choses à chaque fois que notre application demarre elle vérifie d'abord le service de configuration pour récuperer les fichiers des configuration des services puis elle les demarre. Grâce à elle quand on change la configuration d'un microservice on n'a pas besoin de redamerrer ou d'arrêter les autres services chaque microservice va recevoir sa configuration à chaud. 
+  ![configservice](images/configservice.png)
